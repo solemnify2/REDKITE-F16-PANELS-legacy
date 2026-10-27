@@ -1,3 +1,15 @@
+> ## ⚠️ 이 저장소는 보관용입니다 · This repository is retired
+>
+> 개발이 끝났으며 더 이상 갱신되지 않습니다.
+> 이곳의 모든 커밋 이력은 후속 저장소에 그대로 이어져 있습니다.
+>
+> This project is no longer developed here.
+> Its entire commit history is carried over into the successor repository.
+>
+> ### → [solemnify2/REDKITE-F16-Panels](https://github.com/solemnify2/REDKITE-F16-Panels)
+
+---
+
 # REDKITE F16 PANELS
 
 ![My Cockpit](My%20Cockpit.png)
